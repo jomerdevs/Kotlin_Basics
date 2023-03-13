@@ -19,7 +19,7 @@ fun main(args: Array<String>){
 
     // CONDICIONAL SIMPLE if
     if ( number > 100 ) {
-        //si la condición se cumple entra a este bloque y ejecuta las instrucciones
+        //si la condición se cumple entra a este bloque y ejecuta las instrucciones del if
         //si la condición no se cumple entonces no entra aquí y sigue el programa normal
         println("El número ingresado es mayor a 100")
     }
