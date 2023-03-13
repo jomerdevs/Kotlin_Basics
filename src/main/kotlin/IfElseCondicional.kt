@@ -34,9 +34,10 @@ fun main(args: Array<String>){
         println("El número ingresado es negativo")
     }
 
-     /*----- EN LA CONDICION if - else DE ARRIBA HAY UN DEFECTO, Y ES QUE EL NUMERO PUEDE SER 0 Y NO ESTAMOS EVALUANDO ESO
+/*----- EN LA CONDICION if - else DE ARRIBA HAY UN DEFECTO, Y ES QUE EL NUMERO PUEDE SER 0 Y NO ESTAMOS EVALUANDO ESO
 	         SI INGRESARAN 0 EL PROGRAMA DE ARRIBA DIRIA QUE ES NEGATIVO Y 0 NO ES NEGATIVO, PARA ELLO USAREMOS
 			 CONDICIONALES if MULTIPLES if-else if-else ----- */
+
     if (number > 0) {
         println("El número ingresado es positivo")
     }
